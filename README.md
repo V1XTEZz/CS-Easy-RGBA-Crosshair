@@ -1,14 +1,26 @@
-# CS-Easy-RGBA-Crosshair
+# CS-Easy-RGBA-Crosshair v2.1
 Control your crosshair colors with simple commands!
-(This CFG working in CS2 & CS:GO)
 
 <h5>Easy & fast way to control of RGBA</h5>
-<i>Write R/G/B/A number and you will control R/G/B & Alpha</i>
+<h2>Cross RGBA control</h2>
   <blockquote>
-    Write <code>R0</code> (up to 255) Red control
-    <br>Write <code>G0</code> (up to 255) Green control
-    <br>Write <code>B0</code> (up to 255) Blue control
-    <br>Write <code>A0</code> (up to 255) Alpha control
+    Write <code>R0</code> (up to 255, +5 only) Red control
+    <br>Write <code>G0</code> (up to 255, +5 only) Green control
+    <br>Write <code>B0</code> (up to 255, +5 only) Blue control
+    <br>Write <code>A0</code> (up to 255, +5 only) Alpha control
+    <br>
+    <br><code><i>[P.S replace value to V to get current value]</i></code>
+  </blockquote>
+
+  
+<h2>Outline RGBA control</h2>
+  <blockquote>
+    Write <code>RO0</code> (up to 255, +5 only) Outline red control
+    <br>Write <code>GO0</code> (up to 255, +5 only) Outline green control
+    <br>Write <code>BO0</code> (up to 255, +5 only) Outline blue control
+    <br>Write <code>AO0</code> (up to 255, +5 only) Outline alpha control
+    <br>
+    <br><code><i>[P.S replace value to V to get current value]</i></code>
   </blockquote>
 Write <code>CrgbV</code> to get RGB values or <code>CrgbaV</code> to get alpha too!
 
